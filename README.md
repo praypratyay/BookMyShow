@@ -8,7 +8,8 @@
     <img src="bookmyshow.jpg" width="800" height="500" />
 </p>
 
-We dont want just entities for this. We want to build an entire software system thats takes input. Persist data in a real database. I will nbe using Django for this.
+We dont want just entities for this. We want to build an entire software system thats takes input. Persist data in a real database.
+I will be using Django for this.
 
 ## Requirements and Clarifications
 
@@ -103,7 +104,7 @@ We dont want just entities for this. We want to build an entire software system 
 
 ### SeatType
 - ID
-- SeatTypeName (Vlub/Exceutive)
+- SeatTypeName (Club/Exceutive)
 
 ### Show
 - ID
@@ -201,7 +202,6 @@ We dont want just entities for this. We want to build an entire software system 
 ## Schema Design (TABLES)
 
 ### Django ORMs
-
 
 ## HOW TO RUN?
 
