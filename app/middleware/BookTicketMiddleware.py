@@ -1,6 +1,7 @@
 from ..services import *
 
 # Works like request/response DTOs
+# We can also create a new directory just for DTOs.
 class BookTicketMiddleware:
 
     def __init__(self, get_response):
